@@ -34,11 +34,11 @@ The goal is to classify whether a client will subscribe to a term deposit based 
 - **Class Imbalance:** Addressed using SMOTE.
 - **Objective:** Maximized recall and accuracy by finding the optimal threshold using the precision-recall curve.
 - **Performance Metrics (Test Set):**
-- **Precision:** 0.95 for class 0, 0.33 for class 1.
-- **Recall:** 0.82 for class 0, 0.66 for class 1.
-- **F1-Score:** 0.88 for class 0, 0.44 for class 1.
-- **Accuracy:** 80%
-- **Weighted Average:** Precision: 0.88, Recall: 0.80, F1-Score: 0.83
+- **Precision:** 0.96 for class 0, 0.34 for class 1.
+- **Recall:** 0.81 for class 0, 0.75 for class 1.
+- **F1-Score:** 0.88 for class 0, 0.47 for class 1.
+- **Accuracy:** 81%
+- **Weighted Average:** Precision: 0.89, Recall: 0.81, F1-Score: 0.83
 
 ### Recommendations:
 
