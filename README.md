@@ -1,4 +1,4 @@
-# Predicting Term Deposit Subscriptions
+# Predicting Bank Term Deposit Subscriptions
 
 ### Problem Statement:
 
